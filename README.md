@@ -1,6 +1,6 @@
 # javaBankEclipse
 
-Pequeno projeto utilizando conceitos elementares da linguagem JAVA:
+Pequeno projeto utilizando conceitos elementares da linguagem JAVA
 
     - Classes;
     - Objetos;
